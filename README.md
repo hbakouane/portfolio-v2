@@ -3,8 +3,15 @@
 ### I created this portfolio for my new website using Bootstrap, you can use it too, just make sure you keep my credits :) Thanks!
 
 ### Change the color scheme?
-<p>Just go the assets/css/main.css and change the color variables</p>
-![image](https://github.com/hbakouane/portfolio-v2/assets/57842491/000f7748-819e-41af-904c-2686458e9f76)
+Just go the assets/css/main.css and change the color variables
+```
+:root {
+    --gray: rgba(191, 191, 191, 0.163);
+    --main: rgb(49, 142, 228);
+    --main-dark: rgb(17, 68, 116);
+}
+```
+
 
 
 ### Light Mode: 
